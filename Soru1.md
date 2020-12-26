@@ -1,6 +1,6 @@
 # Soru 1) 1980’den itibaren spor grubu bazında en çok madalya alan 1. 3. 5. ülkeyi bulalım.
 
-'''SQL
+´´´SQL
 
 with after1980 as
 (
@@ -19,4 +19,4 @@ nth_value(country,3) over(partition by sport order by countMedals DESC range bet
 nth_value(country,5) over(partition by sport order by countMedals DESC range between unbounded preceding and unbounded following) as country_rank5,
   from after1980
   
-  '''
+´´´
