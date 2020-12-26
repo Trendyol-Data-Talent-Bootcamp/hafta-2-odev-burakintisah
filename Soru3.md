@@ -14,5 +14,5 @@ from temp1
 
 ```
 
-### Bu query de her gun gelen dataları topladıgım için aynı device id de gelen 4 gun ust usteki dataları tekrar tekrar topluyorum.
-### O yuzden hata oldugunun farkındayım ama tekrar duzenleme fırsatım olmadı.
+Bu query de her gun gelen dataları topladıgım için aynı device id de gelen 4 gun ust usteki dataları tekrar tekrar topluyorum.
+O yuzden hata oldugunun farkındayım ama tekrar duzenleme fırsatım olmadı.
